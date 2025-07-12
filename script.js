@@ -47,13 +47,13 @@ const gridlines = [
 
 const upTack = "˔";
 const downTack = "˕";
-const leftTack = "꭪";
-const rightTack = "꭫";
+const leftTack = "˖";
+const rightTack = "˗";
 
 const upTackC = "\u031d";
 const downTackC = "\u031e";
-const leftTackC = "\u0318";
-const rightTackC = "\u0319";
+const leftTackC = "\u031f";
+const rightTackC = "\u0320";
 const roundC = "\u0339";
 const unroundC = "\u031c";
 
