@@ -61,7 +61,7 @@ const select = document.getElementById("vowel");
 const button = document.getElementById("confirm");
 const canvas = document.getElementById("canvas");
 
-const font = "24px arial";
+const font = "24px helvetica, arial, sans-serif";
 const fill = "black";
 
 for (let vowel in vowels) {
